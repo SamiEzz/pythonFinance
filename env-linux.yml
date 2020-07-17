@@ -1,0 +1,87 @@
+name: pyfinance
+channels:
+- defaults
+dependencies:
+- bleach
+- cycler
+- decorator
+- entrypoints
+- freetype
+- html5lib
+- icu
+- inflection
+- ipykernel
+- ipython
+- ipython_genutils
+- ipywidgets
+- jedi
+- jinja2
+- jsonschema
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- libpng
+- markupsafe
+- matplotlib
+- mistune
+- mkl
+- more-itertools
+- nbconvert
+- nbformat
+- notebook
+- numpy
+- openpyxl
+- openssl
+- pandas
+- pandas-datareader
+- pandocfilters
+- path.py
+- patsy
+- pexpect
+- pickleshare
+- pip
+- prompt_toolkit
+- ptyprocess
+- pygments
+- pyparsing
+- pyqt
+- python
+- python-dateutil
+- pytz
+- pyzmq
+- qt
+- qtconsole
+- quandl
+- readline
+- requests
+- requests-file
+- requests-ftp
+- scipy
+- setuptools
+- simplegeneric
+- sip
+- six
+- sqlite
+- statsmodels
+- terminado
+- testpath
+- tk
+- tornado
+- traitlets
+- wcwidth
+- wheel
+- widgetsnbextension
+- xlrd
+- xz
+- zlib
+- pip:
+  - ipython-genutils
+  - jupyter-client
+  - jupyter-console
+  - jupyter-core
+  - mpl-finance
+  - mplfinance
+  - prompt-toolkit
+  - sqlalchemy
+prefix: \\Anaconda3\envs\pyfinance
